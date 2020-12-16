@@ -1,6 +1,5 @@
 ### #免责声明
-- 本项目为仿做项目,仅做本人练手和学习使用,非官方App,不用于商业目的。
-- 本项目学习了bilibili网站全栈之巅up的视频 地址：https://www.bilibili.com/video/BV1A4411Y7fi
+- 本项目仅做本人练手和学习使用,非官方App,不用于商业目的。
 
 ### #项目简介
 - Vue+Node+mongodb英雄联盟项目断断续续经过两个月完成，是一个移动端的仿王者荣耀手机端官网和后台管理系统的英雄联盟移动端项目。
@@ -12,7 +11,7 @@
 - 后台管理系统：http://www.k-vuelol.top/admin （测试账号：）
 
 ### #源码地址
-- GitHub: https://github.com/Kai-web/node-vue-lol 记得Start:star2:
+- GitHub: https://github.com/Kai-web/node-vue-lol 
 
 ### #环境准备
 - 工具安装和环境搭建(nodejs,npm,mongodb),并做好相关配置
